@@ -1,5 +1,5 @@
 <?php
 
-echo "Voltei Mundo da programação!!! kkkkkk";
+echo "Voltei Mundo da programação!!!";
 
 ?>
